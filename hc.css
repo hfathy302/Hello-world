@@ -1,0 +1,52 @@
+div.cont       {
+    overflow: hidden
+}
+div.menu       {height: 50px;width: 100%;background-color: #1D1D1D;overflow: hidden
+    
+}
+div.menu li        {
+    float: left;list-style-type: none;padding: 5px 10px 5px 10px; color: gray
+}
+div.menu  a     {
+    text-decoration: none;color: white;
+}
+div.menu p      {
+  display: inline
+}
+#right         {
+    float: right
+}
+
+div.coll       {
+    margin: 20px;overflow: hidden;overflow: hidden
+}
+div.sidebar    {
+    width: 20%;background-color: #EEEEEE;float: left;overflow: hidden
+    
+}
+div.sidebar a   {text-decoration:none;color: #77B8DD;
+    
+}
+div.sidebar li    {
+    list-style-type: none;padding: 5px;color: gray
+}
+div.head       {width: 75%;height: 300px ;background-color: #EEEEEE;margin: auto;float: right;padding-left: 50px;overflow: hidden
+    
+}
+
+div.hea        {
+    width: 75%;overflow: hidden;
+}
+
+div.hright         {
+    width: 25%;height: 300px;float: right
+    
+}
+div.hcenter         {
+    width: 25%;height: 300px;margin: auto
+    
+}
+div.hleft           { 
+    width: 25%;height: 300px;float: left;padding-left: 20px
+    
+}
